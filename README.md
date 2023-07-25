@@ -1,6 +1,6 @@
 # demo-svelte-suggest
 
-🚁 Demo project with "suggest pattern" in svelte
+🚁 Demo project with "suggest pattern" in Svelte
 
 ## Preview 🎉
 
